@@ -9,9 +9,9 @@
   ],
   "contact": {},
   "license": "MIT",
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
-    "main": [
+    "client": [
       "com.example.serverscan.ServerScanMod"
     ]
   },
