@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "serverscan",
+  "version": "1.0.0",
+  "name": "Advanced Server Scanner",
+  "description": "扫描和发现 Minecraft 服务器，支持自定义、导入导出、远程API等高级功能",
+  "authors": [
+    "abcdd123441"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.serverscan.ServerScanMod"
+    ]
+  },
+  "depends": {
+    "fabric-api": "*"
+  }
+}
